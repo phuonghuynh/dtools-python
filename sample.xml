@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:c="http://base.google.com/cns/1.0">
+    <channel>
+        <title>Vietnamworks uers</title>
+        <link>http://www.vietnamworks.com/</link>
+        <description>List of applications</description>
+        <jobApplication>
+            <userId>3451662</userId>
+            <itemId>634867</itemId>
+            <applyData>634867</applyData>
+        </jobApplication>
+        <jobApplication>
+            <userId>3451662</userId>
+            <itemId>634867</itemId>
+            <applyData>634867</applyData>
+        </jobApplication>
+    </channel>
+</rss>

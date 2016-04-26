@@ -1,0 +1,4 @@
+dicttoxml==1.6.6
+yattag==1.5.3
+python-dateutil
+mysql-connector-python-rf==2.1.3

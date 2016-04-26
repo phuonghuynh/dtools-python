@@ -1,0 +1,6 @@
+env/
+script.egg-info/
+/finix.egg-info/
+.idea/
+*.iml
+job_applications*.xml
